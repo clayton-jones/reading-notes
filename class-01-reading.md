@@ -1,3 +1,5 @@
+## [Home](https://clayton-jones.github.io/reading-notes/)
+
 # Class 01 Reading - Node Ecosystem, TDD, CI/CD
 
 ## Discussion Questions:
