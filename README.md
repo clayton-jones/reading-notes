@@ -12,3 +12,5 @@
 
 - [*Reading 04* - Advanced Mongo/Mongoose](https://clayton-jones.github.io/reading-notes/class-04-reading)  
 
+- [*Reading 05* - Linked Lists](https://clayton-jones.github.io/reading-notes/class-05-reading)  
+
