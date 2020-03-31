@@ -14,3 +14,5 @@
 
 - [*Reading 05* - Linked Lists](https://clayton-jones.github.io/reading-notes/class-05-reading)  
 
+- [*Reading 06* - HTTP and REST](https://clayton-jones.github.io/reading-notes/class-06-reading)  
+
