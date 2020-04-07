@@ -16,5 +16,6 @@
 
 - [*Reading 06* - HTTP and REST](https://clayton-jones.github.io/reading-notes/class-06-reading)  
 
-- [*Reading 07* - Express](https://clayton-jones.github.io/reading-notes/class-07-reading)  
+- [*Reading 07* - Express](https://clayton-jones.github.io/reading-notes/class-07-reading) 
 
+- [*Reading 08* - Express Routing](https://clayton-jones.github.io/reading-notes/class-08-reading)  
