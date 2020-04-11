@@ -19,3 +19,5 @@
 - [*Reading 07* - Express](https://clayton-jones.github.io/reading-notes/class-07-reading) 
 
 - [*Reading 08* - Express Routing](https://clayton-jones.github.io/reading-notes/class-08-reading)  
+
+- [*Reading 09* - API Server](https://clayton-jones.github.io/reading-notes/class-09-reading)  
