@@ -21,3 +21,5 @@
 - [*Reading 08* - Express Routing](https://clayton-jones.github.io/reading-notes/class-08-reading)  
 
 - [*Reading 09* - API Server](https://clayton-jones.github.io/reading-notes/class-09-reading)  
+
+- [*Reading 10* - Authentication](https://clayton-jones.github.io/reading-notes/class-10-reading)  
