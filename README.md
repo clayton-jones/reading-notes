@@ -22,4 +22,6 @@
 
 - [*Reading 09* - API Server](https://clayton-jones.github.io/reading-notes/class-09-reading)  
 
-- [*Reading 10* - Authentication](https://clayton-jones.github.io/reading-notes/class-10-reading)  
+- [*Reading 10* - Authentication](https://clayton-jones.github.io/reading-notes/class-10-reading) 
+
+- [*Reading 11* - DSA: Stacks and Queues](https://clayton-jones.github.io/reading-notes/class-11-reading)  
