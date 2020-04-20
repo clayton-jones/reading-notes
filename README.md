@@ -4,6 +4,8 @@
 
 ## Code 401 - Advanced JavaScript  
 
+### Readings
+
 - [*Reading 01* - Node Ecosystem, TDD, CI/CD](https://clayton-jones.github.io/reading-notes/class-01-reading)  
 
 - [*Reading 02* - Classes, Inheritance, Functional Programming](https://clayton-jones.github.io/reading-notes/class-02-reading)  
@@ -25,3 +27,8 @@
 - [*Reading 10* - Authentication](https://clayton-jones.github.io/reading-notes/class-10-reading) 
 
 - [*Reading 11* - DSA: Stacks and Queues](https://clayton-jones.github.io/reading-notes/class-11-reading)  
+
+
+### Career Coaching  
+
+- [Purpose Practice Fact Sheet](https://clayton-jones.github.io/reading-notes/purpose-practice)
