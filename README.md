@@ -28,6 +28,8 @@
 
 - [*Reading 11* - DSA: Stacks and Queues](https://clayton-jones.github.io/reading-notes/class-11-reading)  
 
+- [*Reading 12* - OAuth](https://clayton-jones.github.io/reading-notes/class-12-reading)  
+
 
 ### Career Coaching  
 
