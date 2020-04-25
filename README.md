@@ -30,6 +30,8 @@
 
 - [*Reading 12* - OAuth](https://clayton-jones.github.io/reading-notes/class-12-reading)  
 
+- [*Reading 13* - Bearer AUthorization](https://clayton-jones.github.io/reading-notes/class-13-reading)  
+
 
 ### Career Coaching  
 
