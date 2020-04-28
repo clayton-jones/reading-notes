@@ -32,6 +32,8 @@
 
 - [*Reading 13* - Bearer AUthorization](https://clayton-jones.github.io/reading-notes/class-13-reading)  
 
+- [*Reading 14* - Access Control](https://clayton-jones.github.io/reading-notes/class-14-reading)  
+
 
 ### Career Coaching  
 
