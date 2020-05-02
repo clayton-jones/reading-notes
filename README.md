@@ -34,6 +34,8 @@
 
 - [*Reading 14* - Access Control](https://clayton-jones.github.io/reading-notes/class-14-reading)  
 
+- [*Reading 15* - DSA: Trees](https://clayton-jones.github.io/reading-notes/class-15-reading)  
+
 
 ### Career Coaching  
 
