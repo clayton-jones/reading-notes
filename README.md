@@ -36,6 +36,8 @@
 
 - [*Reading 15* - DSA: Trees](https://clayton-jones.github.io/reading-notes/class-15-reading)  
 
+- [*Reading 16* - Event Driven Applications](https://clayton-jones.github.io/reading-notes/class-16-reading)  
+
 
 ### Career Coaching  
 
