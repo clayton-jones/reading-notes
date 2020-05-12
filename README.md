@@ -39,8 +39,10 @@
 - [*Reading 16* - Event Driven Applications](https://clayton-jones.github.io/reading-notes/class-16-reading)  
   
 - [*Reading 17* - TCP Server](https://clayton-jones.github.io/reading-notes/class-17-reading)  
+  
+- [*Reading 18* - Socket.io](https://clayton-jones.github.io/reading-notes/class-18-reading)  
 
 
 ### Career Coaching  
 
-- [Purpose Practice Fact Sheet](https://clayton-jones.github.io/reading-notes/purpose-practice)
+- [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
