@@ -41,8 +41,9 @@
 - [*Reading 17* - TCP Server](https://clayton-jones.github.io/reading-notes/class-17-reading)  
   
 - [*Reading 18* - Socket.io](https://clayton-jones.github.io/reading-notes/class-18-reading)  
-
-
+  
+- [*Reading 19* - Message Queues](https://clayton-jones.github.io/reading-notes/class-19-reading)  
+  
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
