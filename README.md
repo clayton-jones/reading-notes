@@ -6,6 +6,8 @@
 
 ### Readings
 
+#### Backend
+
 - [*Reading 01* - Node Ecosystem, TDD, CI/CD](https://clayton-jones.github.io/reading-notes/class-01-reading)  
 
 - [*Reading 02* - Classes, Inheritance, Functional Programming](https://clayton-jones.github.io/reading-notes/class-02-reading)  
@@ -44,6 +46,10 @@
   
 - [*Reading 19* - Message Queues](https://clayton-jones.github.io/reading-notes/class-19-reading)  
   
+#### Front End
+
+- [*Reading 21* - Component based UI](https://clayton-jones.github.io/reading-notes/class-21-reading)  
+
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
