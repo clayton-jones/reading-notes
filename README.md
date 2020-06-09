@@ -46,9 +46,11 @@
   
 - [*Reading 19* - Message Queues](https://clayton-jones.github.io/reading-notes/class-19-reading)  
   
-#### Front End
+#### Front End React
 
 - [*Reading 21* - Component based UI](https://clayton-jones.github.io/reading-notes/class-21-reading)  
+
+- [*Reading 21* - React Testing and Deployment](https://clayton-jones.github.io/reading-notes/class-22-reading)  
 
 ### Career Coaching  
 
