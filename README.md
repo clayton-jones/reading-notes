@@ -50,7 +50,7 @@
 
 - [*Reading 21* - Component based UI](https://clayton-jones.github.io/reading-notes/class-21-reading)  
 
-- [*Reading 21* - React Testing and Deployment](https://clayton-jones.github.io/reading-notes/class-22-reading)  
+- [*Reading 22* - React Testing and Deployment](https://clayton-jones.github.io/reading-notes/class-22-reading)  
 
 ### Career Coaching  
 
