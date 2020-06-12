@@ -52,6 +52,8 @@
 
 - [*Reading 22* - React Testing and Deployment](https://clayton-jones.github.io/reading-notes/class-22-reading)  
 
+- [*Reading 23* - Props and State](https://clayton-jones.github.io/reading-notes/class-23-reading)  
+
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
