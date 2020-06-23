@@ -56,6 +56,8 @@
 
 - [*Reading 24* - Routing and Component Composition](https://clayton-jones.github.io/reading-notes/class-24-reading)  
 
+- [*Reading 26* - Hooks API](https://clayton-jones.github.io/reading-notes/class-26-reading)  
+
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
