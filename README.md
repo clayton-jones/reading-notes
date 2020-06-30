@@ -59,6 +59,8 @@
 - [*Reading 26* - Hooks API](https://clayton-jones.github.io/reading-notes/class-26-reading)  
   
 - [*Reading 27* - Custom Hooks](https://clayton-jones.github.io/reading-notes/class-27-reading)  
+  
+- [*Reading 28* - Context API](https://clayton-jones.github.io/reading-notes/class-28-reading)  
 
 ### Career Coaching  
 
