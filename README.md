@@ -63,6 +63,8 @@
 - [*Reading 28* - Context API](https://clayton-jones.github.io/reading-notes/class-28-reading)  
   
 - [*Reading 29* - Redux](https://clayton-jones.github.io/reading-notes/class-29-reading)  
+  
+- [*Reading 30* - Graphs](https://clayton-jones.github.io/reading-notes/class-30-reading)  
 
 ### Career Coaching  
 
