@@ -66,6 +66,8 @@
   
 - [*Reading 30* - Graphs](https://clayton-jones.github.io/reading-notes/class-30-reading)  
 
+- [*Reading 31* - Redux: Combined Reducers](https://clayton-jones.github.io/reading-notes/class-31-reading)  
+  
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
