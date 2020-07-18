@@ -68,6 +68,8 @@
 
 - [*Reading 31* - Redux: Combined Reducers](https://clayton-jones.github.io/reading-notes/class-31-reading)  
   
+- [*Reading 32* - Redux: Async Actions](https://clayton-jones.github.io/reading-notes/class-32-reading)  
+  
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
