@@ -70,6 +70,8 @@
   
 - [*Reading 32* - Redux: Async Actions](https://clayton-jones.github.io/reading-notes/class-32-reading)  
   
+- [*Reading 33* - Redux: Additional Topics](https://clayton-jones.github.io/reading-notes/class-33-reading)  
+  
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
