@@ -72,6 +72,8 @@
   
 - [*Reading 33* - Redux: Additional Topics](https://clayton-jones.github.io/reading-notes/class-33-reading)  
   
+- [*Reading 34* - React Native](https://clayton-jones.github.io/reading-notes/class-34-reading)  
+  
 ### Career Coaching  
 
 - [*Purpose Practice Fact Sheet*](https://clayton-jones.github.io/reading-notes/purpose-practice)
